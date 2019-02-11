@@ -1,4 +1,5 @@
-# Atmosphere
+Interpretability also popularly known as human-interpretable interpretations (HII) of a machine learning model is the extent to which a human (including non-experts in machine learning) can understand the choices taken by models in their decision-making process (the how, why and what).
+ The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. # Atmosphere
 
 Goal: create and implement metrics to measure Transparency and Trustworthiness
 
@@ -16,6 +17,8 @@ Goal: create and implement metrics to measure Transparency and Trustworthiness
 
 ## Interpretability
 
+Interpretability also popularly known as human-interpretable interpretations (HII) of a machine learning model is the extent to which a human (including non-experts in machine learning) can understand the choices taken by models in their decision-making process (the how, why and what).
+ The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. 
 
 
 
