@@ -42,3 +42,7 @@ Interpretability also popularly known as human-interpretable interpretations (HI
 
 ## References
 
+* [LIME](https://github.com/marcotcr/lime)
+* [SHAP](https://github.com/slundberg/shap)
+* [Interpretable-ml-Book](https://github.com/christophM/interpretable-ml-book)
+
