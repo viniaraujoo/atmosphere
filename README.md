@@ -37,7 +37,7 @@ Interpretability also popularly known as human-interpretable interpretations (HI
 
 
 ## Awareness
-Users, owners, designers ... should be aware of the possible bias present in the models and of the possible giving that this bias can bring to society. "What am I buying?"
+
 
 
 ## References
