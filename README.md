@@ -23,6 +23,8 @@ Interpretability also popularly known as human-interpretable interpretations (HI
 
 
 ## Trustfulness
+“I have a model with 90% accuracy” is not sufficient information.
+Trying to depend on a model for certain problems, relying solely on these metrics, does not guarantee great confidence. Especially when trying to have its model presented to lay people on the subject in which they are not aware of such metrics.
 
 
 
