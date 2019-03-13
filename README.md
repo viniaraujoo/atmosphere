@@ -34,6 +34,13 @@ Increasingly, the concept of Machine Learning and Deep Learning is applied to ma
 Evaluate and validate any point of the data in order to analyze if the model is having the expected behavior and made the decisions consistent with the problem
 
 
+## Ethics
+The human may want to guard against certain kinds of discrimination, and their
+notion of fairness may be too abstract to be completely encoded into the system (e.g., one
+might desire a ‘fair’ classifier for loan approval). Even if we can encode protections for specific
+protected classes into the system, there might be biases that we did not consider a priori (e.g.,
+one may not build gender-biased word embeddings on purpose, but it was a pattern in data
+that became apparent only after the fact).
 
 
 
