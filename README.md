@@ -19,9 +19,6 @@ Interpretability also popularly known as human-interpretable interpretations (HI
  The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. 
  
             
-
-
-
 ## Trustfulness
 “I have a model with 90% accuracy” is not sufficient information.
 Trying to depend on a model for certain problems, relying solely on these metrics, does not guarantee great confidence. Especially when trying to have its model presented to lay people on the subject in which they are not aware of such metrics.
